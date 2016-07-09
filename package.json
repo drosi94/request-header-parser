@@ -1,0 +1,30 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "API tutorial for freecodecamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drosi94/request-header-parser.git"
+  },
+  "keywords": [
+    "request",
+    "header",
+    "parser",
+    "freecodecamp"
+  ],
+  "author": "drosi94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drosi94/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/drosi94/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "useragent": "^2.1.9"
+  }
+}
